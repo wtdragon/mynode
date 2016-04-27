@@ -1,0 +1,29 @@
+{
+  "name": "mynode",
+  "version": "1.0.0",
+  "description": "for my node.js learing",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtdragon/mynode.git"
+  },
+  "keywords": [
+    "mynode",
+    "learning",
+    "nodejs"
+  ],
+  "author": "gavin wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtdragon/mynode/issues"
+  },
+  "homepage": "https://github.com/wtdragon/mynode#readme"
+}
